@@ -1,5 +1,5 @@
 ### Hi, my name is Kirill, I'm a web developer.
-### Обо мне
+### About me
 * I am actively studying web development
 * I want to work in a good team, creating products that people need
 * I am constantly learning new technologies
